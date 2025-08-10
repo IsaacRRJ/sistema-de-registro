@@ -2,4 +2,6 @@
 
 -Estado del proyecto: En construccion.-
 para ejecutar el sistema debes poner: 
+
+
 ```npn install react```
